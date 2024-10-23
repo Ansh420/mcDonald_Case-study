@@ -28,7 +28,7 @@ Gather relevant data from McDonald's internal databases, customer surveys, and e
 
 - **Cluster Analysis**: Group customers based on similarities in their characteristics and behaviors. Common algorithms include **K-means clustering,                                                   hierarchical clustering, and DBSCAN**.
 - **RFM Analysis**: Segment customers based on Recency (time since last purchase), Frequency (number of purchases), and Monetary Value (total spending).
-- **Demographic Segmentation**: Divide customers based on demographic factors like age, gender, income, and location.
+- **Demographic Segmentation**: Divide customers based on **demographic factors** like age, gender, income, and location.
 
 ## Segment Profiling:
 
