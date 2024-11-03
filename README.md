@@ -1,6 +1,6 @@
 ![Mcdonald-case-study-analysis-1-2048](https://github.com/user-attachments/assets/05565868-48a8-45b6-9a1e-f60ed929ff06)
 # mcDonald_Case-study
-This project aims to analyze **McDonald's market segments using data analysis techniques**. By examining various factors, such as customer demographics, preferences, and behaviors, we aim to identify distinct groups of customers and understand their unique needs.
+This project aims to analyze **McDonald's market segments using data analysis techniques**. By examining various factors, such as customer demographics, preferences, and behaviors, we aim to identify distinct groups of customers and understand their unique needs. 
 
 # Data Analysis Methodology
 
