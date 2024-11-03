@@ -14,7 +14,7 @@ Gather relevant data from McDonald's internal databases, customer surveys, and e
 
 ## Data Cleaning and Preparation:
 
-- Handle missing values, outliers, and **inconsistencies** in the data.
+- Handle missing values, outliers, and **inconsistencies** in the data.  
 - Normalize and standardize numerical data to ensure comparability.
 - Convert categorical data into **numerical formats** if necessary.
 
