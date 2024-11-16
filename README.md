@@ -7,10 +7,10 @@ This project aims to analyze **McDonald's market segments using data analysis te
 ## Data Collection: 
 Gather relevant data from McDonald's internal databases, customer surveys, and external sources. Data points may include:
 
-- Customer demographics (age, gender, income, location)
-- Purchase history (frequency, product preferences, spending patterns)
-- Customer feedback (surveys, social media comments)
-- Market trends and competitor analysis
+- Customer demographics (age, gender, income, location).
+- Purchase history (frequency, product preferences, spending patterns).
+- Customer feedback (surveys, social media comments).
+- Market trends and competitor analysis.
 
 ## Data Cleaning and Preparation:
 
@@ -33,10 +33,10 @@ Gather relevant data from McDonald's internal databases, customer surveys, and e
 ## Segment Profiling:
 
 ### Describe each identified segment in detail, including:
-- Demographic characteristics
-- Purchase behavior
-- Preferences and needs
-- Psychographic attributes (lifestyle, values)
+- Demographic characteristics.
+- Purchase behavior.
+- Preferences and needs.
+- Psychographic attributes (lifestyle, values).
 
 ## Segment Prioritization:
 
