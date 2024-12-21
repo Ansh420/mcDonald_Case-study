@@ -35,7 +35,7 @@ Gather relevant data from McDonald's internal databases, customer surveys, and e
 ### Describe each identified segment in detail, including:
 - Demographic characteristics.
 - Purchase behavior.
-- Preferences and needs.
+- Preferences and needs  
 - Psychographic attributes (lifestyle, values).
 
 ## Segment Prioritization:
