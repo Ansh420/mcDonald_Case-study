@@ -18,7 +18,7 @@ Gather relevant data from McDonald's internal databases, customer surveys, and e
 - Normalize and standardize numerical data to ensure comparability.
 - Convert categorical data into **numerical formats** if necessary.
 
-## Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA): 
 
 - Explore the data to gain insights into its distribution, relationships, and patterns.
 - Use visualizations (histograms, scatter plots, box plots) to understand the data visually.
