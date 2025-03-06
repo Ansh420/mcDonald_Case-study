@@ -22,7 +22,7 @@ Gather relevant data from McDonald's internal databases, customer surveys, and e
 
 - Explore the data to gain insights into its distribution, relationships, and patterns.
 - Use visualizations (histograms, scatter plots, box plots) to understand the data visually.
-- Calculate **summary statistics** (mean, median, mode, standard deviation) to quantify the data.
+- Calculate **summary statistics** (mean, median, mode, standard deviation) to quantify the data.  
 
 ## Segmentation Techniques:
 
