@@ -2,7 +2,7 @@
 # mcDonald_Case-study
 This project aims to analyze **McDonald's market segments using data analysis techniques**. By examining various factors, such as customer demographics, preferences, and behaviors, we aim to identify distinct groups of customers and understand their unique needs. 
 
-# Data Analysis Methodology
+# Data Analysis Methodology.
 
 ## Data Collection: 
 Gather relevant data from McDonald's internal databases, customer surveys, and external sources. Data points may include:
