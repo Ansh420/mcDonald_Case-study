@@ -11,7 +11,7 @@ Gather relevant data from McDonald's internal databases, customer surveys, and e
 - Purchase history (frequency, product preferences, spending patterns).
 - Customer feedback (surveys, social media comments).
 - Market trends and competitor analysis.
-
+   
 ## Data Cleaning and Preparation:
 
 - Handle missing values, outliers, and **inconsistencies** in the data.  
